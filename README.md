@@ -8,11 +8,7 @@ Third-year Computer Engineering student at DJ Sanghavi College of Engineering, M
 - **[JFLAP-CLI](https://github.com/VirajSanghavi007/JFLAP-CLI)**: a command line for JFLAP. Build, simulate and convert automata from scripts, and render editor-accurate PNGs without opening the GUI.
 - **[Portfolio](https://github.com/VirajSanghavi007/Portfolio)**: my site, plain HTML/CSS/JS with a desktop-OS style homepage. Live at [viraj-sanghavi.onrender.com](https://viraj-sanghavi.onrender.com).
 - **Kaggle**: 17 public notebooks across tabular, vision and time series. [kaggle.com/virajsanghavi007](https://www.kaggle.com/virajsanghavi007)
-
-**Tools I use**
-
-Python · PyTorch / PyTorch Geometric · scikit-learn · FastAPI · PostgreSQL · Memgraph / Neo4j · Docker · GitHub Actions · Java · C# / WinUI
-
+  
 **Find me**
 
 [Portfolio](https://viraj-sanghavi.onrender.com) · [LinkedIn](https://linkedin.com/in/virajsanghavi) · [Kaggle](https://www.kaggle.com/virajsanghavi007) · [LeetCode](https://leetcode.com/u/Viraj_Sanghavi/) · [X](https://x.com/virajsanghavi00)
